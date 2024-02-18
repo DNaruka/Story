@@ -1,1 +1,2 @@
-This is the final test to see how merge works
+This is the final test to see how merge works.
+I understand now.
